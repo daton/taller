@@ -22,7 +22,6 @@
                 startActivity(sendIntent);
             }
         });
-        
-        ```
+     
         
 
