@@ -2,6 +2,14 @@
 ## Taller Android
  Copia el codiguito siguiente donde te lo indique el profesor
  
+ Primero vas a poner esto hasta arriba, son bibliotecas
+ 
+ ```
+ import android.content.Intent;
+ import android.view.View;
+ ```
+ Despues esto en el método correspondiente
+ 
  ```
   findViewById(R.id.boton).setOnClickListener(new View.OnClickListener() {
             @Override
