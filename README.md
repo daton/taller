@@ -2,7 +2,7 @@
 ## Taller Android
  Copia el codiguito siguiente donde te lo indique el profesor
  
- ´´´
+ ```
   findViewById(R.id.boton).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -14,4 +14,6 @@
                 startActivity(sendIntent);
             }
         });
- ´´´
+        
+        ```
+
